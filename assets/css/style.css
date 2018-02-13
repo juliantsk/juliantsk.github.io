@@ -134,7 +134,7 @@
         }
         
         div.portfolio:hover {
-            border 1px solid #777777;
+            border: 1px solid #777777;
         }
         
         div.portfolio img {
