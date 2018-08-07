@@ -2195,7 +2195,7 @@ textarea.w-select {
       ========================================================================== */
 
 body {
-  font-family: Vollkorn, serif;
+  font-family: Montserrat, serif;
   color: #333;
   font-size: 14px;
   line-height: 20px;
@@ -2207,6 +2207,7 @@ h1 {
   font-size: 32px;
   line-height: 38px;
   font-weight: 700;
+  font-family: Vollkorn, serif;
 }
 
 h2 {
@@ -2252,7 +2253,7 @@ h6 {
 p {
   margin-top: 0px;
   margin-bottom: 5px;
-  font-family: Vollkorn, serif;
+  font-family: Montserrat, serif;
   font-size: 15px;
   line-height: 22px;
 }
@@ -2371,6 +2372,7 @@ p {
 
 .main-subtitle {
   font-family: Vollkorn, serif;
+  font-weight: 500;
   color: hsla(0, 0%, 100%, .81);
   font-size: 18px;
   font-style: italic;
@@ -2387,6 +2389,7 @@ p {
   color: #47474f;
   font-size: 18px;
   line-height: 25px;
+  font-family: Vollkorn, serif;
 }
 
 .x-icon {
@@ -2409,7 +2412,8 @@ p {
   background-image: -webkit-linear-gradient(270deg, rgba(126, 196, 189, .87), rgba(198, 51, 82, .87)), url("http://uploads.webflow.com/5b184257128924aa3fb05c88/5b1842571289249329b05cb9_footer-bg.jpg");
   background-image: linear-gradient(180deg, rgba(126, 196, 189, .87), rgba(198, 51, 82, .87)), url("http://uploads.webflow.com/5b184257128924aa3fb05c88/5b1842571289249329b05cb9_footer-bg.jpg");
   background-size: auto, cover;
-  font-family: Vollkorn, serif;
+  font-family: Montserrat, sans-serif;
+  color: #fff;
 }
 
 .section.footer {
@@ -2444,7 +2448,7 @@ p {
 
 .role {
   margin-bottom: 16px;
-  font-family: Vollkorn, serif;
+  font-family: Montserrat, sans-serif;
   font-size: 17px;
   font-style: italic;
 }
@@ -2543,12 +2547,12 @@ p {
 }
 
 .contact-text {
-  color: #212121;
+  color: #fff;
   font-size: 17px;
 }
 
 .link {
-  color: #1c1c1c;
+  color: #fff;
 }
 
 .social-wrapper {
@@ -2576,6 +2580,7 @@ p {
 .social-icon {
   margin-top: -6px;
   margin-right: 9px;
+  opacity: .45;
 }
 
 .field {
